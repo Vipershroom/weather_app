@@ -1,11 +1,9 @@
 import React from 'react'
+import './styles/App.scss'
+import Planet from './Planet'
 
 const App = () => {
-    return (
-        <div>
-            <h1></h1>
-        </div>
-    )
+    return <main></main>
 }
 
 export default App
