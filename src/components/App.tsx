@@ -4,7 +4,7 @@ import Planet from './Planet'
 
 const App = () => {
     return (
-        <main>
+        <main className="main">
             <Planet />
         </main>
     )
