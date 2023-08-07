@@ -6,8 +6,9 @@ import './styles/Planet.scss'
 const Planet = () => {
     return (
         <div className="header">
-            <h1>0° Degreese</h1>
+            <h1>Location</h1>
             <img src={Sun} alt="" />
+            <h1>0° Degreese</h1>
         </div>
     )
 }
